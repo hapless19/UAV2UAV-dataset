@@ -14,6 +14,8 @@ We would like to thank the following contributors for working on the collecting,
 
 SYSU Unmanned Aerial Vehicle Association（中山大学无人飞行器协会）
 
-Chen Yuguang
+Yuguang Chen 
 
-Yan Jingming
+Zirong Huang
+
+Jingming Yan 
