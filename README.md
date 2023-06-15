@@ -9,6 +9,9 @@ The dataset can be downloaded https://pan.baidu.com/s/1QWndfxUkBa4YU0FEf0Z8jw (p
 
 The first frame annotation is stored in [left top weight height].
 
+# Citation
+Yong Wang, Zirong Huang, Robert Laganière, Huanlong Zhang, Lu Ding, A UAV to UAV tracking benchmark, Knowledge-Based Systems.
+
 # Acknowledgement and Contributors
 We would like to thank the following contributors for working on the collecting, annotations and conducting the quality checks for this dataset.
 
